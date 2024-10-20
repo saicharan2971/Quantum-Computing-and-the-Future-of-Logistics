@@ -1,12 +1,15 @@
 **Quantum Computing and the Future of Logistics**
-Overview
+
+**Overview**
+
 This presentation explores how quantum computing is poised to revolutionize logistics. It addresses how quantum algorithms, sensors, and simulations can optimize logistics operations, enhance decision-making, and boost supply chain resilience. Additionally, it covers the challenges posed by classical computing and how quantum computing provides novel solutions.
 
-Contents
+**Contents**
+
 Introduction to Quantum Computing in Logistics
 Highlights the limitations of classical computing in solving logistics problems, such as complexity, speed, and scalability issues.
 
-Quantum Algorithms for Optimization
+**Quantum Algorithms for Optimization**
 
 Quantum Annealing: Utilized for solving complex vehicle routing and optimization problems.
 Quantum Simulations: Applied to simulate supply chain disruptions and find optimal strategies.
@@ -32,10 +35,16 @@ Amazon: Optimized inventory with quantum sensors, leading to better accuracy.
 Future of Quantum Computing in Logistics
 Quantum computing will enable more informed decision-making, resilient supply chains, and sustainable logistics optimizations in the future.
 
-How to Use
+**How to Use**
+
 This presentation is designed to introduce both technical and non-technical audiences to the future role of quantum computing in logistics.
 It provides insights into the key algorithms and real-world applications of quantum technologies.
-Author
+
+
+
+Author:
 Sai Charan Perala
+
 Roll Number: 22071A6744
+
 VNR Vignana Jyothi Institute of Engineering and Technology
