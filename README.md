@@ -1,4 +1,4 @@
-Quantum Computing and the Future of Logistics
+**Quantum Computing and the Future of Logistics**
 Overview
 This presentation explores how quantum computing is poised to revolutionize logistics. It addresses how quantum algorithms, sensors, and simulations can optimize logistics operations, enhance decision-making, and boost supply chain resilience. Additionally, it covers the challenges posed by classical computing and how quantum computing provides novel solutions.
 
@@ -19,7 +19,7 @@ Asset Tracking and Inventory Management: Quantum sensors enable real-time tracki
 Hybrid Quantum-Classical Solutions
 Explores combining classical computing's data handling strengths with quantum computing's optimization capabilities for better logistics outcomes.
 
-Challenges in Quantum Technology Implementation
+**Challenges in Quantum Technology Implementation**
 
 Hardware scalability and stability issues.
 Software integration into existing logistics systems.
